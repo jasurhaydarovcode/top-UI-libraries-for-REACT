@@ -1,0 +1,38 @@
+[
+    {
+        "logo": "https://mui.com/static/logo.png",
+        "name": "Material UI",
+        "website": "https://mui.com/",
+        "githubRepo": "mui/material-ui"
+    },
+    {
+        "logo": "https://magicui.design/icon.png",
+        "name": "Magic UI",
+        "website": "https://magicui.design/",
+        "githubRepo": "magicuidesign/magicui"
+    },
+    {
+        "logo": "https://ui.shadcn.com/apple-touch-icon.png",
+        "name": "shadcn ui",
+        "website": "https://ui.shadcn.com/",
+        "githubRepo": "shadcn-ui/ui"
+    },
+    {
+        "logo": "https://ui.aceternity.com/_next/image?url=%2Flogo-dark.png&w=64&q=75",
+        "name": "Aceternity UI",
+        "website": "https://ui.aceternity.com/",
+        "githubRepo": ""
+    },
+    {
+        "logo": "https://img.icons8.com/?size=512&id=r9QJ0VFFrn7T&format=png",
+        "name": "Chakra UI",
+        "website": "https://www.chakra-ui.com/",
+        "githubRepo": "chakra-ui/chakra-ui"
+    },
+    {
+        "logo": "https://www.naiveui.com/assets/naivelogo-BdDVTUmz.svg",
+        "name": "Naive UI",
+        "website": "https://www.naiveui.com/en-US/os-theme",
+        "githubRepo": "https://github.com/tusen-ai/naive-ui"
+    }
+]
